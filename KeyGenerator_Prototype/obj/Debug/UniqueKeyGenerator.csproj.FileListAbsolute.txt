@@ -1,0 +1,6 @@
+E:\Work\SPTS\bin\Debug\UniqueKeyGenerator.exe
+E:\Work\SPTS\bin\Debug\UniqueKeyGenerator.pdb
+E:\Work\SPTS\obj\Debug\UniqueKeyGenerator.csprojAssemblyReference.cache
+E:\Work\SPTS\obj\Debug\UniqueKeyGenerator.csproj.CoreCompileInputs.cache
+E:\Work\SPTS\obj\Debug\UniqueKeyGenerator.exe
+E:\Work\SPTS\obj\Debug\UniqueKeyGenerator.pdb
